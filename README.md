@@ -8,7 +8,7 @@ vinitrajsoni
 - 🌱 Exploring AI Agents, Agentic AI, RAG, and future AI systems.
 - 💡 Interested in creating products that solve real-world problems through AI.
 - 💬 Ask me about Artificial Intelligence, Machine Learning, LLMs, or Python.
-- 📄 Resume
-- 🌐 Portfolio
+- 🌐 Portfolio: https://portfolio-vr-alpha.vercel.app/
 - 📫 Reach me: vinitrajsoni52@gmail.com
-
+- 
+<h3>Interested in Research and Development<h3/>
