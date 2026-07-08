@@ -10,5 +10,5 @@ vinitrajsoni
 - 💬 Ask me about Artificial Intelligence, Machine Learning, LLMs, or Python.
 - 🌐 Portfolio: https://portfolio-vr-alpha.vercel.app/
 - 📫 Reach me: vinitrajsoni52@gmail.com
-- 
+  
 <h3>Interested in Research and Development<h3/>
